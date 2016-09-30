@@ -1,0 +1,72 @@
+
+
+* {
+
+}
+
+body {
+	color: #000 ;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 16px ;
+}
+.page-wrap { 
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+dt {
+	border-right: 1px solid #a1a1a1;
+	font-weight: bold;
+	padding: 0px 10px 75px 0;
+	display:inline-block;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+/**/
+
+.parr-objetive{
+	color: #a1a1a1;
+	font-family: times;
+	font-size: 18px;
+	font-style: italic;
+
+	
+}
+
+/*imagen*/
+
+.pic {
+	float: right;
+
+}
+
+/*titulo*/
+
+.fn {
+	border-bottom: 1px solid #a1a1a1;
+	font-size: 32px;
+	
+}
+
+/* informacion de contacto*/
+
+.contact-info {
+	font-size: 14px; 
+
+}
+
+.email {
+	border-bottom: 1px dashed #999;
+	text-decoration: none;
+	color: #999;
+
+}
+
+/*posicionar contenido de texto*/
+
+
